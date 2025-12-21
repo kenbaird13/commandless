@@ -1,0 +1,13 @@
+name = "HexDebug"
+filename = "hexdebug-fabric-0.8.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe26a641967656ea195796596924b540f3bbdc5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7196742
+project-id = 1016340

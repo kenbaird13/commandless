@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: BetterNether"
+filename = "farmers-cutting-betternether-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8ef1075c3e603b56eeeeadb773ee90fb1b894a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5928486
+project-id = 1114065

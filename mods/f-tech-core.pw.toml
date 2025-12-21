@@ -1,0 +1,13 @@
+name = "F-Tech: Core"
+filename = "FTechCore-1.0-rc.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6127d062d1f77ecbbc6e323516f9fe8b5f1a48f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7301170
+project-id = 976236

@@ -1,0 +1,13 @@
+name = "TLib"
+filename = "tlib-fabric-1.4.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a28fa8e059f8c001d9ded87b6314171d161dfa8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7356486
+project-id = 1245655

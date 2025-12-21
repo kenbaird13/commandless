@@ -1,0 +1,13 @@
+name = "Sodium Shadowy Path Blocks"
+filename = "sodium-shadowy-path-blocks-3.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2afe847da4edb058d0d3afe84741405b8f3b7059"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6365332
+project-id = 556408

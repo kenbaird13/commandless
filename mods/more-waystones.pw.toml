@@ -1,0 +1,13 @@
+name = "More Waystones"
+filename = "MoreWaystones-Fabric-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e62833ac2900d14b45ae96224794caa2df1f3600"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6214132
+project-id = 965989

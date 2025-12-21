@@ -1,0 +1,13 @@
+name = "HexxyPlanes"
+filename = "hexxyplanes-fabric-0.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab8c8a701982d66472e9ad865ec44f01813395d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7333508
+project-id = 1397012

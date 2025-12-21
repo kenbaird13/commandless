@@ -1,0 +1,13 @@
+name = "Commandless"
+author = "codeNredstone"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eaa41ad003b77864cbaf4257ba5466ac2d328c4c93b8c9e6bcadca5a22ea6238"
+
+[versions]
+fabric = "0.18.3"
+minecraft = "1.20.1"

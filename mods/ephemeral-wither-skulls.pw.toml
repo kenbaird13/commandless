@@ -1,0 +1,13 @@
+name = "Ephemeral Wither Skulls"
+filename = "EphemeralWitherSkulls-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0aab8d0e454161bdc00fb8ca4d016fea5f5bb3d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6421862
+project-id = 1231082

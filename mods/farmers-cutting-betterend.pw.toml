@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: BetterEnd"
+filename = "farmers-cutting-betterend-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "462309d163b4d75c1fedf35f4bbb26bf5998829f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5933613
+project-id = 1146834
