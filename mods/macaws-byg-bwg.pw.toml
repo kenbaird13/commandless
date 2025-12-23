@@ -1,0 +1,13 @@
+name = "Macaw's Oh The Biomes You'll Go / We've Gone"
+filename = "mcwbyg-fabric-1.20.1-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b7b68ff131b917d4681a7412edb263eb9ec3b63"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7353537
+project-id = 535960

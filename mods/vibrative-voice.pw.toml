@@ -1,0 +1,13 @@
+name = "Vibrative Voice"
+filename = "VibrativeVoice-fabric-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac95ec66b59e55564550089ec43cc189fcd46dd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6508169
+project-id = 1019011

@@ -1,0 +1,13 @@
+name = "Create: Mythic Metallurgy"
+filename = "mythic-metallurgy-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JwkwLmYM/versions/x9RSjU9R/mythic-metallurgy-1.0.0.jar"
+hash-format = "sha512"
+hash = "fdc555ad8805061e6db9b56f4013a37f7f589b0e8128377bcfb4ed189e4a099d78b4a83d39e10fd6f4bb83d9d701b6cfa01600976672be38da8c65b12dbd3d47"
+
+[update]
+[update.modrinth]
+mod-id = "JwkwLmYM"
+version = "x9RSjU9R"
