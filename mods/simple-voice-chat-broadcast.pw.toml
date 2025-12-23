@@ -1,0 +1,13 @@
+name = "Simple Voice Chat broadcast"
+filename = "voicechat-broadcast-plugin-fabric-0.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wE0wz0q9/versions/OF7Iyd22/voicechat-broadcast-plugin-fabric-0.4.jar"
+hash-format = "sha512"
+hash = "b52799bd1d81b76ac0fca0542857974da12222ce04d912611fc323c7843b4a31238ef6b17500cea70829de4eeb37f94c6fc798801d723400f4a55c54acda1389"
+
+[update]
+[update.modrinth]
+mod-id = "wE0wz0q9"
+version = "OF7Iyd22"
