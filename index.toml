@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".jarmods.kate-swp"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = ".modlist.txt.kate-swp"
-hash = "60ec68195570cd0730055a6ab2f18352bd4e3dd0dd2eacca5da3d058e477f22b"
-
-[[files]]
 file = "README.md"
 hash = "3a3338b9801cb42b22637d5656f2feb527bd886c892646eaf6ab4f2e9d6ded27"
 
