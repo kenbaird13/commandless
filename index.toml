@@ -570,11 +570,6 @@ hash = "6757363eeff33967a7beb9782d833cd9f23486933a88373e576a3856fbbaf1bd"
 metafile = true
 
 [[files]]
-file = "mods/mythic-lib.pw.toml"
-hash = "731b513a515f721e966bf1e1f54795119be60bc9673d30c7561673f30bf0a002"
-metafile = true
-
-[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "2a711640965e11d418b4678beeebac1ea502e2f8d9a198af53c455d798c39683"
 metafile = true
@@ -586,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "7f3b1db8638c3fb26e9e35f31da80734fca02308e28fac276772787f1f852fa6"
+hash = "1865dc867cee05f975c900fdd9d1728f176bd73795da01ccf6e6a4138187bf69"
 metafile = true
 
 [[files]]
@@ -751,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/vibrative-voice.pw.toml"
-hash = "24702fbf30c1e01cc7a47ef9894737ac3b8dff6a31db3dc31a545f29e234c4f6"
+hash = "93fb03eab0c3c4d2482331c9bc64c5d280ddf53f08bcd8bd252b540845c238da"
 metafile = true
 
 [[files]]

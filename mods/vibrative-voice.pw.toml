@@ -1,6 +1,6 @@
 name = "Vibrative Voice"
 filename = "VibrativeVoice-fabric-1.20.1-1.2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wa9vzNNU/versions/aMdAf355/VibrativeVoice-fabric-1.20.1-1.2.0.jar"
