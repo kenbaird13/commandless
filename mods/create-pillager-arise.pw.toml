@@ -3,11 +3,11 @@ filename = "create_pillagers_arise-118.28.GL-fabric-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "52777db7a669213df0150348a09f1cef1db47e09"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/VT2rW2wr/versions/tMLHypHl/create_pillagers_arise-118.28.GL-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "21d0dccf3a8ee0c29c33d8b8ac7617ab5fc2510f5a9d2fcb2295f86ad04380eb1708b96ee594c3ace645bbe8a796935d0639edb74623144be91e5440ef61353f"
 
 [update]
-[update.curseforge]
-file-id = 6451043
-project-id = 1094958
+[update.modrinth]
+mod-id = "VT2rW2wr"
+version = "tMLHypHl"

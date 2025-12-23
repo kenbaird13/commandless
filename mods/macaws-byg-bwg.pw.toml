@@ -3,11 +3,11 @@ filename = "mcwbyg-fabric-1.20.1-1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2b7b68ff131b917d4681a7412edb263eb9ec3b63"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/s4B19O5h/versions/WbazS2Dk/mcwbyg-fabric-1.20.1-1.5.jar"
+hash-format = "sha512"
+hash = "b6f1978f661de5eff1a0bebee7e534ded3d17e5b2ed2ddb5cbabc62440ad43c7ea1761ec11ff3d11d816ea697b49a6dc6ef75cacbaa101f773a8b6b5584c755b"
 
 [update]
-[update.curseforge]
-file-id = 7353537
-project-id = 535960
+[update.modrinth]
+mod-id = "s4B19O5h"
+version = "WbazS2Dk"

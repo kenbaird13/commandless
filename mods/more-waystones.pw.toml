@@ -3,11 +3,11 @@ filename = "MoreWaystones-Fabric-1.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e62833ac2900d14b45ae96224794caa2df1f3600"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/pAlNq7Q0/versions/AVQMM77i/MoreWaystones-Fabric-1.3.0.jar"
+hash-format = "sha512"
+hash = "6f76e7f684fb47c396d70aa29b858b877276bb0937c6e78da6274cd8b887ca6ae4c025d57e87a8ecc3c26aed3b962aa66b78493c7bf81ed050a4941a9221fb70"
 
 [update]
-[update.curseforge]
-file-id = 6214132
-project-id = 965989
+[update.modrinth]
+mod-id = "pAlNq7Q0"
+version = "AVQMM77i"

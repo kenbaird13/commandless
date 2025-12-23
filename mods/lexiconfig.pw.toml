@@ -3,11 +3,11 @@ filename = "lexiconfig-fabric-1.4.18.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2bb86beff507e0d2e0c6e327af0048e21de04ba0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/D157Rgyf/versions/G78LySAk/lexiconfig-fabric-1.4.18.jar"
+hash-format = "sha512"
+hash = "8d6987eacec8acc9fb5d46c34559fc99491f17ded574faee3b4ede4ca676fb4df5a3a1466f0fb0bbfe6d2612b27d15e0126082dc854e4fb84f7e9fc0c1a955cc"
 
 [update]
-[update.curseforge]
-file-id = 6504020
-project-id = 1019452
+[update.modrinth]
+mod-id = "D157Rgyf"
+version = "G78LySAk"

@@ -3,11 +3,11 @@ filename = "tlib-fabric-1.4.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9a28fa8e059f8c001d9ded87b6314171d161dfa8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/sBn7rVvc/versions/am20L1VD/tlib-fabric-1.4.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "641d1ae156419bf4ecac195a5934d1efda32b2df0f19b27a0a2643e80e20676e7e7980aa6286459db8fcc8c43fc739d1a56ece443c1ee709feb8ccb1adb78c8c"
 
 [update]
-[update.curseforge]
-file-id = 7356486
-project-id = 1245655
+[update.modrinth]
+mod-id = "sBn7rVvc"
+version = "am20L1VD"

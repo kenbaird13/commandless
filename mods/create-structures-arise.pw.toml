@@ -3,11 +3,11 @@ filename = "create_structures_arise-156.29.28-fabric-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "501f81fd537030b4f2b2d0ac73108aefe01d8382"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9enMEvoc/versions/q9wzHxaN/create_structures_arise-156.29.28-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "7aefc64e62c13d326a02ee6cd71831b9bb5f184318a5a174bc37c219e6265f094b8ca958632d14b0cc8957dfd7e84ffa07b95ceead3ac5e6ae1b3d81629b35a2"
 
 [update]
-[update.curseforge]
-file-id = 6452086
-project-id = 1010066
+[update.modrinth]
+mod-id = "9enMEvoc"
+version = "q9wzHxaN"

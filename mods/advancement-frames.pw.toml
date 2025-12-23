@@ -3,11 +3,11 @@ filename = "advancementframes-1.20-2.2.7-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "654094927931a1a936111f3d4cee65f237dab3b2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/zUBn5hHr/versions/DxfoqvJs/advancementframes-1.20-2.2.7-fabric.jar"
+hash-format = "sha512"
+hash = "06faf0126b59c0ea55bb0df9375f3eb8c5646620d77d437ea1475c2bc3efdae2e89759e36af28face5719c3de9ae04a7c61a08b12a6676b55fabf3beb175583c"
 
 [update]
-[update.curseforge]
-file-id = 5366363
-project-id = 556795
+[update.modrinth]
+mod-id = "zUBn5hHr"
+version = "DxfoqvJs"

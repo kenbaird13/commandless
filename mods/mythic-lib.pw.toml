@@ -1,13 +1,13 @@
 name = "Mythic Compat"
 filename = "mythiclib-2.0+mc1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "513008192af81d7354d1d8eb6604a09ed1240387"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Umsczw3y/versions/VI6326vT/mythiclib-2.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "279d3819b61220ec550c5198865e007e633654ef12c15552f6940c5b47bb6ced1ae94051c234d7a9b9d08658ff3432e2be7d58403833a944d9420f49d9fe2dd7"
 
 [update]
-[update.curseforge]
-file-id = 7069511
-project-id = 1014057
+[update.modrinth]
+mod-id = "Umsczw3y"
+version = "VI6326vT"

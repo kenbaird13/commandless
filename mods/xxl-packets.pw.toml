@@ -3,11 +3,11 @@ filename = "xlpackets-fabric-1.20.1-1.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ea2e03d6e84e53ac46d16640f7dcade14ef64e8d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/SeCuopwJ/versions/crZrkVzH/xlpackets-fabric-1.20.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "285ab55fa228ba986a6017f24082d6abc4ce8a68ffeb565ea341882b65ec17435b3bd9c5b654f02def2bb74d2a55ac89c9e1f3477affc4a14eb74f974031b934"
 
 [update]
-[update.curseforge]
-file-id = 5959234
-project-id = 962921
+[update.modrinth]
+mod-id = "SeCuopwJ"
+version = "crZrkVzH"
