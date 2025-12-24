@@ -100,6 +100,11 @@ hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
 metafile = true
@@ -455,6 +460,11 @@ hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "043287e4cfcb8d1d7561e42b0a2198a907c7b50c5b4729ecadb9a2b2ef790cc4"
+metafile = true
+
+[[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "420014cd27a83914ab2f34a52448f76bfb95bca73a26b1a927092a4e00a70a56"
 metafile = true
@@ -622,11 +632,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
 metafile = true
 
 [[files]]
