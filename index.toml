@@ -760,6 +760,11 @@ hash = "1739505075c08dcda3714a0e48c069478743e831afa79a371da75984d52b6dfb"
 metafile = true
 
 [[files]]
+file = "mods/wits.pw.toml"
+hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
+metafile = true
+
+[[files]]
 file = "mods/xxl-packets.pw.toml"
 hash = "2ebccfef870b790452fa9a3d6868f7857757c99e1432138e73a9631d186947e5"
 metafile = true
