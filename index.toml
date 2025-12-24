@@ -160,11 +160,6 @@ hash = "936a4d94d2333c45a1fe1bcd4f2c00d1536fd0f2a35ddf8b183acf8209f39b45"
 metafile = true
 
 [[files]]
-file = "mods/create-pillager-arise.pw.toml"
-hash = "87e7f6d2f392d2956ccb6a10d03bab5f8bca4790eb470e89c64ccabc9502e1da"
-metafile = true
-
-[[files]]
 file = "mods/create-rustic-structures.pw.toml"
 hash = "958f3d7852444b959c5e4b8804e30d5284f5f5d9c8b925d8ab671442da440910"
 metafile = true
@@ -172,21 +167,6 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "964a56ef500d320801315eb45687e51e9352f03615506469979875d2fed41760"
-metafile = true
-
-[[files]]
-file = "mods/create-structures-arise.pw.toml"
-hash = "25685891029a1bab2197f29ba74f29bb44c6ee2bd7974d63a41c11810c4faf70"
-metafile = true
-
-[[files]]
-file = "mods/create-structures-overhaul.pw.toml"
-hash = "f3667deee35ab10680dcc44f014eca8deacc82b2d1613d451761b92c0d89e6c6"
-metafile = true
-
-[[files]]
-file = "mods/create-structures.pw.toml"
-hash = "916c17614ec51da73e173b7249118b473e479c370a48378bc7f91eb5e5abfa9d"
 metafile = true
 
 [[files]]
