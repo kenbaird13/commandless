@@ -10,11 +10,6 @@ hash = "971916846fa6d86fe9986c6f34370b62de5aa9c219e709011851397af8fd6fb5"
 metafile = true
 
 [[files]]
-file = "mods/aa4-atlas.pw.toml"
-hash = "8ef719e2cb5395601019b47775eb9d401241c1eadb521a0d98f34a84ca6f3ab2"
-metafile = true
-
-[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "2f53a5507be98c751a0ea405bb44e30aac1834de654b8f3de0e5f733997f7ffc"
 metafile = true
