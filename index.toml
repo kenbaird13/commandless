@@ -10,6 +10,11 @@ hash = "971916846fa6d86fe9986c6f34370b62de5aa9c219e709011851397af8fd6fb5"
 metafile = true
 
 [[files]]
+file = "mods/aa4-atlas.pw.toml"
+hash = "8ef719e2cb5395601019b47775eb9d401241c1eadb521a0d98f34a84ca6f3ab2"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "2f53a5507be98c751a0ea405bb44e30aac1834de654b8f3de0e5f733997f7ffc"
 metafile = true
@@ -32,11 +37,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "5b332b628f2bbb11afdc82f4a9d27ca3afde5ad2d21c590af5c7a080c2aa9dfa"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "10ace47a600cbe519cb7aad182367792523155591165b852c546d6257e1df3db"
 metafile = true
 
 [[files]]
@@ -315,11 +315,6 @@ hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
 
 [[files]]
-file = "mods/fwaystones.pw.toml"
-hash = "3251cbd6f9d698f979aa5db8ad95bedb3d39b4deb41ec18ab91635b650d977db"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "b534fbebf760ee1f9382d18e22450ef006d67b50bd9043cedaa9f5c31a501041"
 metafile = true
@@ -327,11 +322,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
 metafile = true
 
 [[files]]
@@ -525,6 +515,11 @@ hash = "cca59c22f3d72c86e6f33ab6497d7ce8a927aeff2517d7e4415602c623013bc3"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "54bcc4e45bd8e0be3c05a2001f35e1df73dbf918bb15b6a9fb5c3e605afb53c6"
+metafile = true
+
+[[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "cc43f113dffb7f6b4a93b8f7603d59c0ab113fd6a211224bb87938ba68be72a4"
 metafile = true
@@ -547,11 +542,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "200d34b575b506ab0503f7856cdcd4cc38030c27e0749e36f6bbe62cbeb16cec"
-metafile = true
-
-[[files]]
-file = "mods/more-waystones.pw.toml"
-hash = "9b250cf00f89c466d0a3176a57262484af079501afea14c9102bf46d3bb0d873"
 metafile = true
 
 [[files]]
@@ -587,11 +577,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
-metafile = true
-
-[[files]]
-file = "mods/paragliders.pw.toml"
-hash = "ac7e444163ee1e3926626ed43d4e398c8a0e27e7c9504924f81dcf8d5778aa97"
 metafile = true
 
 [[files]]
@@ -675,16 +660,6 @@ hash = "3135bb6ec401e951d248de79dbdf40608e362e64b89fe9e7d2e74399f3b49375"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "a038507d694641849bce154d4430f8d1b76aec9b177a9e81eaed6ed298140f8c"
-metafile = true
-
-[[files]]
-file = "mods/surveystones.pw.toml"
-hash = "23e7eef7d39f4abe84c5607b1e2e214e521fcba10085b00897aa241928bd97d5"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
@@ -702,11 +677,6 @@ metafile = true
 [[files]]
 file = "mods/tlib.pw.toml"
 hash = "190e243d2a69ff1b912a6af9fbed0a4969da6aba830e288a4c1611a7c740bc25"
-metafile = true
-
-[[files]]
-file = "mods/totw-modded.pw.toml"
-hash = "d61ac85fca14be48a977bb65bf460a89ba9b1158e64701129715a157e318be04"
 metafile = true
 
 [[files]]
@@ -752,6 +722,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
 metafile = true
 
 [[files]]
