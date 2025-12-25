@@ -240,6 +240,11 @@ hash = "5233b7493e1efa92a19b59cde5f4ea54f511c6e24fda262c44cde9182f2dca10"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "26bf38943038fc09997f1a056f699cf18455cf4a99b0900efad80426bc865539"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
 metafile = true
@@ -355,6 +360,11 @@ hash = "b48832001c692143d8140577323ec8033bfe868c44d79daa27cdd8a64913cf40"
 metafile = true
 
 [[files]]
+file = "mods/hexsky.pw.toml"
+hash = "f2096ab5a88c58a817e02fdf23e5223ef64ceeac5019eebdcfa7ac0e0eae95a4"
+metafile = true
+
+[[files]]
 file = "mods/hexstruction.pw.toml"
 hash = "140d22763aea94ff764113060519f5998e1ff1a980cb85c312115b2c012e1c74"
 metafile = true
@@ -407,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-villages.pw.toml"
 hash = "67a3f8b8acb4a0de6f793f867495d0a64bf4982d545ce898d129d57ad7d48eea"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "d35c75ec92d4e1c46d264d41685bf261b5984d81457762bd5f360e4fce251261"
 metafile = true
 
 [[files]]
@@ -697,6 +712,16 @@ metafile = true
 [[files]]
 file = "mods/vibrative-voice.pw.toml"
 hash = "93fb03eab0c3c4d2482331c9bc64c5d280ddf53f08bcd8bd252b540845c238da"
+metafile = true
+
+[[files]]
+file = "mods/vs-wakes-compat.pw.toml"
+hash = "45136b6ae95e5d16e7cb98c88983ecef918e0391ec5f7a4e911fd5911e15f97c"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
 metafile = true
 
 [[files]]
