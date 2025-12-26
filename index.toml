@@ -360,11 +360,6 @@ hash = "b48832001c692143d8140577323ec8033bfe868c44d79daa27cdd8a64913cf40"
 metafile = true
 
 [[files]]
-file = "mods/hexsky.pw.toml"
-hash = "f2096ab5a88c58a817e02fdf23e5223ef64ceeac5019eebdcfa7ac0e0eae95a4"
-metafile = true
-
-[[files]]
 file = "mods/hexstruction.pw.toml"
 hash = "140d22763aea94ff764113060519f5998e1ff1a980cb85c312115b2c012e1c74"
 metafile = true
