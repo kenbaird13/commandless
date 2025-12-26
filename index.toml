@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka.pw.toml"
-hash = "26bf38943038fc09997f1a056f699cf18455cf4a99b0900efad80426bc865539"
+hash = "8ea11b348e14a256d830dd40f0e1d6736d069a8cc1e0b2a6747db6256be5247f"
 metafile = true
 
 [[files]]
