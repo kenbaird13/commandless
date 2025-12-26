@@ -420,11 +420,6 @@ hash = "67a3f8b8acb4a0de6f793f867495d0a64bf4982d545ce898d129d57ad7d48eea"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "d35c75ec92d4e1c46d264d41685bf261b5984d81457762bd5f360e4fce251261"
-metafile = true
-
-[[files]]
 file = "mods/ioticblocks.pw.toml"
 hash = "85412f19eccc9b4caa6932122e5e3c7b05aba22686b8cde137a96537d23ff322"
 metafile = true
@@ -531,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcqoy.pw.toml"
-hash = "cc43f113dffb7f6b4a93b8f7603d59c0ab113fd6a211224bb87938ba68be72a4"
+hash = "21e7b044769bec86617cb335296c1ab8c44b2ff374a8c3b214fea8e23466786b"
 metafile = true
 
 [[files]]
@@ -706,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "220290b6585ca56b581de94012e678625aeacc300663113bf848e1872897cb22"
+hash = "d98dd2086bb522a91bd8f0cf65c139c5724c770868e128a18b02281779e8895e"
 metafile = true
 
 [[files]]
