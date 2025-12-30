@@ -90,6 +90,11 @@ hash = "c325387d3cbdf2658de2a51ea6235b610505c6de8dc8be71799d050c713c88a2"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
@@ -151,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "acaceb356e4d6ebd3a904dacabe927e1cac94799f12b212e01c5e0dc22b09e66"
+hash = "1b77a8842c1a58c8bc5ee073022b27df59953fc1f98adf3cbf9c1a9195191f02"
 metafile = true
 
 [[files]]
@@ -173,6 +178,10 @@ metafile = true
 file = "mods/create-threaded-trains.pw.toml"
 hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
+
+[[files]]
+file = "mods/create_interactive-1.1.1-beta.4_1.20.1-fabric.jar"
+hash = "d51ad8f7aabe51124d03eb8a0c5df6bbaf3cea8a7f39bbdb1c007bf05f2c1936"
 
 [[files]]
 file = "mods/dataloader.pw.toml"
@@ -246,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka.pw.toml"
-hash = "26bf38943038fc09997f1a056f699cf18455cf4a99b0900efad80426bc865539"
+hash = "d9faad8f1e9a0fe43b81807ea4f47838f74cbfe5056b28929efa78e007531a60"
 metafile = true
 
 [[files]]
@@ -436,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "043287e4cfcb8d1d7561e42b0a2198a907c7b50c5b4729ecadb9a2b2ef790cc4"
+hash = "f644c401c3ef437f661564171abc8be8f13ad71cb67461734ab402d2ebe7cc47"
 metafile = true
 
 [[files]]
@@ -546,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "200d34b575b506ab0503f7856cdcd4cc38030c27e0749e36f6bbe62cbeb16cec"
+hash = "d8a2ea4edf1c55f6fe01cbcc220543f056b91c0d79512e96df22e4259b7c5777"
 metafile = true
 
 [[files]]
@@ -560,8 +569,13 @@ hash = "2a711640965e11d418b4678beeebac1ea502e2f8d9a198af53c455d798c39683"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "641c3899900630151f743a95a6f2d73726dfd87dfbb9fe8fe7f5fcad9946484a"
+hash = "f2edce6ef50fcede2ea135a0a2b0182c69f43f1a05b87ff6ac1455610a206104"
 metafile = true
 
 [[files]]
@@ -712,16 +726,6 @@ metafile = true
 [[files]]
 file = "mods/vibrative-voice.pw.toml"
 hash = "93fb03eab0c3c4d2482331c9bc64c5d280ddf53f08bcd8bd252b540845c238da"
-metafile = true
-
-[[files]]
-file = "mods/vs-wakes-compat.pw.toml"
-hash = "45136b6ae95e5d16e7cb98c88983ecef918e0391ec5f7a4e911fd5911e15f97c"
-metafile = true
-
-[[files]]
-file = "mods/wakes.pw.toml"
-hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
 metafile = true
 
 [[files]]
