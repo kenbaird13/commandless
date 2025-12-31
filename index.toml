@@ -34,7 +34,7 @@ hash = "bcc142c4bb2724b132a14d12cc0dd49f761c518b54bd01f9214804ef44d7d5f4"
 
 [[files]]
 file = "config/lootr.json"
-hash = "0ede0f0bb2392ef87142a9d0d311b13e6bb38962fae927714fd1806d9ec74fbf"
+hash = "b5acad4e51a6d3a66021419201289506cd946883acd827e5766d3420611a919e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

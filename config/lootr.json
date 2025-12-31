@@ -28,11 +28,9 @@
     "dimension_modid_whitelist": [],
     "loot_table_blacklist": [
       "bosses_of_mass_destruction:chests/gauntlet",
-      "bosses_of_mass_destruction:chests/obsidilith",
-      ""
+      "bosses_of_mass_destruction:chests/obsidilith"
     ],
     "loot_modid_blacklist": [
-      "bomd"
     ]
   },
   "decay": {
