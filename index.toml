@@ -481,6 +481,11 @@ hash = "f644c401c3ef437f661564171abc8be8f13ad71cb67461734ab402d2ebe7cc47"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
+metafile = true
+
+[[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "420014cd27a83914ab2f34a52448f76bfb95bca73a26b1a927092a4e00a70a56"
 metafile = true
