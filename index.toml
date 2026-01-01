@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/addonslib.pw.toml"
-hash = "2f53a5507be98c751a0ea405bb44e30aac1834de654b8f3de0e5f733997f7ffc"
+hash = "832cae9626d32a106d48fac5452c00124c4cf28914e8876c90acdcbc0b17d538"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fade702bcfa866d3b4a3b1d030c31ba9764e98b1585a4a54366f4e4d8373e06c"
+hash = "7eefb0f3d1b793f7dc57ee7cf368d055c9b1bf3556f61179f38f1c49c163c1bd"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "2a711640965e11d418b4678beeebac1ea502e2f8d9a198af53c455d798c39683"
+hash = "3c4c11e21b430e85e02437a86d78e2c828ee16bc5bac58e37d211ff4e9f80e92"
 metafile = true
 
 [[files]]
@@ -818,4 +818,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/idas-config.pw.toml"
+hash = "d327c71a3bf517ec80bde7991c56294b18a35c09ea8e930ec052d7d37d88379b"
 metafile = true
