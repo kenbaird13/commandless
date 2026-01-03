@@ -501,11 +501,6 @@ hash = "ace2b470981f950cd04f22d9dbd8e57fc8a3e3059f282f36b720ed02a640da0e"
 metafile = true
 
 [[files]]
-file = "mods/macaws-byg-bwg.pw.toml"
-hash = "fe164e126eed05744bf060cd9662751e72c0eb6cb3faddc5180078c526c1bad2"
-metafile = true
-
-[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "ea9af51413113483ba002f9827a66653b184363c68d6280009677df1fe171afa"
 metafile = true
@@ -606,16 +601,6 @@ hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "f2edce6ef50fcede2ea135a0a2b0182c69f43f1a05b87ff6ac1455610a206104"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "1865dc867cee05f975c900fdd9d1728f176bd73795da01ccf6e6a4138187bf69"
-metafile = true
-
-[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "727beac4d8109d8136ce3aa101040a80caa4b353e3262eaa6d6256ca38d818b3"
 metafile = true
@@ -713,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "3135bb6ec401e951d248de79dbdf40608e362e64b89fe9e7d2e74399f3b49375"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "ce8868bbecfc78d470fe88663e4128751a4282968adaa5e5676544ecabab6355"
 metafile = true
 
 [[files]]
