@@ -33,8 +33,20 @@ file = "config/bosses_of_mass_destruction.json5"
 hash = "bcc142c4bb2724b132a14d12cc0dd49f761c518b54bd01f9214804ef44d7d5f4"
 
 [[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
 file = "config/lootr.json"
 hash = "b5acad4e51a6d3a66021419201289506cd946883acd827e5766d3420611a919e"
+
+[[files]]
+file = "config/vibrativevoice.toml"
+hash = "f31a24c3efe788b5e88657bed4724e7afdb9093335a4fbd2dad380f4515f6b79"
+
+[[files]]
+file = "config/yigd.json"
+hash = "b374d4b66e91efabb558b1b89745df46732cfcefceeb2a83b93c8dbbaebde05e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -478,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "f644c401c3ef437f661564171abc8be8f13ad71cb67461734ab402d2ebe7cc47"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
 metafile = true
 
 [[files]]
