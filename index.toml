@@ -10,11 +10,11 @@ hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
 
 [[files]]
 file = "config/bclib/cache.json"
-hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+hash = "ac90c5e0cf7d7a4deb4813ec5dff52800d037888c8fee9b9d8ed9833910e1589"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "411b3a2b814e30adfff46ba7c0e688c554028fd9f5887514b29eda9807399fd1"
+hash = "c342e62f25d34bc9fafa67d181a37d2c9f12735703f1c2fb20329f83c82df26e"
 
 [[files]]
 file = "config/bclib/generator.json"
@@ -29,6 +29,58 @@ file = "config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/betterend/blocks.json"
+hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "b0c5fe0ddb608e1511f9fb145768bbf5308ffd3a58f54c1fb3734635384b9e01"
+
+[[files]]
+file = "config/betterend/enchantments.json"
+hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "564c1d7ef5b6adaeec9e7024147316c6448fcc4e97dab5391870440d0237c718"
+
+[[files]]
+file = "config/betterend/items.json"
+hash = "5fb18af78d9d096929c49224dab452715b319de8dd433a274c54adb25ea7f005"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betternether/biomes.json"
+hash = "7b022a3e4a99286d84d4c7a6c587a34730a8045d4fce6dbb07e920df03df271c"
+
+[[files]]
+file = "config/betternether/blocks.json"
+hash = "d5753557e4c0c3a46e0db647cde26306bf469833d8617ecd9142b165988050ea"
+
+[[files]]
+file = "config/betternether/generator.json"
+hash = "787e6999e46c43c90f3ff5f13fb3d061e78949304d7c490ce6053056b2f2e1e0"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "a2d8a1bd03fe5c0f0123057c8607722d15649fe99d27de346100d640326394f7"
+
+[[files]]
+file = "config/betternether/main.json"
+hash = "6d4f1aa22a4c974936e5e6924d644f1755fd995a87092e99e113bdd494371f02"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
+
+[[files]]
 file = "config/bosses_of_mass_destruction.json5"
 hash = "bcc142c4bb2724b132a14d12cc0dd49f761c518b54bd01f9214804ef44d7d5f4"
 
@@ -39,6 +91,66 @@ hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 [[files]]
 file = "config/lootr.json"
 hash = "b5acad4e51a6d3a66021419201289506cd946883acd827e5766d3420611a919e"
+
+[[files]]
+file = "config/structurify.json"
+hash = "76e311e13e9d395add89db1228b452d3c80e6cf35b84f18c5afe98238d4ebde3"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "9edbc0a7900f8446e515e3a603eb6dde591b471fed228d69e38417d772eb93c3"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "49d9104fc26b9e404ec7fffcdf3980e0986dab1b79ed46a6f33255cb34be44b7"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_client.schema.json"
+hash = "18ab8a80bb24a7a448e9689f6ec93921f47072b62271ae0c6d7fdf2da4a12078"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_common.schema.json"
+hash = "f5ba425afee7c543f9e010c34c451817bb9c745ffd45106fac5544e9eacadf96"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_core_server.schema.json"
+hash = "a09eb410f6b56c65904aaf5d75d74ebf67d8ed96f9d992f322e8e03fd86b1f6d"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_eureka_client.schema.json"
+hash = "1401463b94a0af5d1b62b6729690f96d6c5e01f6190830240124f8874812a90c"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_eureka_server.schema.json"
+hash = "00bd2e57e749f48bb8176421358f1540d01eac90d333291773095ce3f0c9adb4"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_server.schema.json"
+hash = "1f7986220d5a489e7eff73163a339b49e5d2ac772976e67523f2d33446754eea"
+
+[[files]]
+file = "config/valkyrienskies/vs_client.json"
+hash = "744609ee3e824e694dbc68125a2f6c1933f98d321755019e3a462a5de67fde44"
+
+[[files]]
+file = "config/valkyrienskies/vs_common.json"
+hash = "b79fd15ca7286dcfa731ca333f6cffe160a46225e41479cc968dd5d8e24df3a8"
+
+[[files]]
+file = "config/valkyrienskies/vs_core_server.json"
+hash = "9de97be5fdd8213911abc139f3c7b70c8d43a6b24530b0b3fc5c19945d99f596"
+
+[[files]]
+file = "config/valkyrienskies/vs_eureka_client.json"
+hash = "8555234cb06a79bcea18b5258658c44be0caa24c3ed56248ab0d5cdb69777705"
+
+[[files]]
+file = "config/valkyrienskies/vs_eureka_server.json"
+hash = "555e08f0c160e62ac28b02ec254aa286a6af472bc79227d237504e9d3a27c059"
+
+[[files]]
+file = "config/valkyrienskies/vs_server.json"
+hash = "03314412a9e8e64ef4b2c692cdbed1923dbdfa36d6061bbee0a91f2fc2c7a17d"
 
 [[files]]
 file = "config/vibrativevoice.toml"
@@ -200,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "1b77a8842c1a58c8bc5ee073022b27df59953fc1f98adf3cbf9c1a9195191f02"
+hash = "e13dde750c029b204b1d8a4d2bc6ae3fb9fd079dd1ae489dba4022ee7313f2a5"
 metafile = true
 
 [[files]]
@@ -233,8 +345,13 @@ hash = "45ab18c1557c3eb23326f682f8ef100148a06cdcb25ff837095ed58f606a06e4"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "944190336af9a08fba032acf9e0f2b1a9e491a17a93f591ccf3a7545e9aaaec8"
+hash = "484792193eb71f6c5dcfac83cabdcc87972702659c31da8a8dfe819bd00c5826"
 metafile = true
 
 [[files]]
@@ -299,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka.pw.toml"
-hash = "d9faad8f1e9a0fe43b81807ea4f47838f74cbfe5056b28929efa78e007531a60"
+hash = "1902c9a0ff2845ece3ce01249ec74a736af2fc5266ff53eba985212b95d6a908"
 metafile = true
 
 [[files]]
@@ -335,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-cutting-betternether.pw.toml"
 hash = "b50c184eb2333f3d78c9a224fc95e16ef3bf197fd8d83a25534a6d39e3cb67fb"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-regions-unexplored.pw.toml"
+hash = "436183746bfcc03beb0fcfd469f220283352c1c8d084dc4563a95d8ca107fed0"
 metafile = true
 
 [[files]]
@@ -419,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexstruction.pw.toml"
-hash = "140d22763aea94ff764113060519f5998e1ff1a980cb85c312115b2c012e1c74"
+hash = "e3ce9e4e1d4dbf12ae095dfe0d35061541c8b0f0932c54b0e400b0285ac35ddf"
 metafile = true
 
 [[files]]
@@ -505,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "1fd083d509f3f73ca26244e8fddef9ddcc6da8518c839569b42fdb8380a54e87"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "55167e582fd4841cd6c581beb53d341e94285c216e04b1d7bff0068e875be2a6"
 metafile = true
 
 [[files]]
@@ -653,6 +780,11 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "1dec5eab016f2b91c2b4c39cb6d0c3f9c9e0f41de359670e9518078dd788240f"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
@@ -684,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d41fa2fb778e4a20f81752ff62dddafe7643e546c581c807e1532deaa385153b"
+hash = "6225a36557ab2dfd1c4d3fb3c0868ed61c465d3246695b10ff10d339f65e3302"
 metafile = true
 
 [[files]]
@@ -713,6 +845,11 @@ hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
+file = "mods/structurify.pw.toml"
+hash = "4d134c76c39c88c45c5ac4be99685d85c62c09f363e0b6e88368308406389aa8"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "3135bb6ec401e951d248de79dbdf40608e362e64b89fe9e7d2e74399f3b49375"
 metafile = true
@@ -730,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/terralith-andesite-patch.pw.toml"
 hash = "190aa88d2db3157e402bdfff931a7da87a3d909f07825a0070b2c8dacd46b3d3"
+metafile = true
+
+[[files]]
+file = "mods/terralith-restoned.pw.toml"
+hash = "6fce1ec54d9b11eeb07de3951ac823ba52b9021fa420650e8e16c9bfc3302135"
 metafile = true
 
 [[files]]
@@ -759,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "0be6d8c91c95c3b509c4823a6cf6faf047f3b31f7d4229dfc289c62c39ef09cf"
+hash = "2f38a4154bf643f20e5ecfcfde55eb84e997a085057815293596cf52fbde77af"
 metafile = true
 
 [[files]]
@@ -775,6 +917,16 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "48c5a8213925efd652a9e13f40116d53e0516e9147b27d6d0e0ae8cf68f83f6d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,208 @@
+{
+  "config_version": "2.0.11",
+  "config_datetime": "2026-01-05_09-19-03",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "betterjungletemples:jungle_temple",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#c:jungle"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "create_rustic_structures:rustic_barn",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#c:plains"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "create_rustic_structures:rustic_smithy",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#apoli:category/forest",
+        "#c:forest"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "create_rustic_structures:rustic_well",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#c:forest"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "create_rustic_structures:rustic_windmill",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#c:plains"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "integrated_villages:cabin_village",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "minecraft:taiga",
+        "terralith:cloud_forest",
+        "terralith:forested_highlands",
+        "terralith:lavender_forest",
+        "terralith:lavender_valley",
+        "terralith:moonlight_grove",
+        "terralith:moonlight_valley",
+        "terralith:rocky_shrubland",
+        "terralith:shrubland",
+        "terralith:wintry_forest",
+        "regions_unexplored:pine_taiga",
+        "regions_unexplored:pine_slopes",
+        "regions_unexplored:willow_forest",
+        "minecraft:forest",
+        "regions_unexplored:maple_forest",
+        "regions_unexplored:autumnal_maple_forest",
+        "regions_unexplored:deciduous_forest",
+        "regions_unexplored:orchard",
+        "minecraft:mangrove_swamp",
+        "minecraft:snowy_taiga",
+        "minecraft:grove",
+        "regions_unexplored:cold_boreal_taiga",
+        "regions_unexplored:cold_deciduous_forest",
+        "regions_unexplored:frozen_pine_taiga"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "integrated_villages:kutcha_village",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#c:desert"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "integrated_villages:marketstead_village",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#c:plains"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "integrated_villages:mediterranean_village",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#c:savanna"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "integrated_villages:mossy_mounds",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#apoli:category/beach",
+        "#c:plains"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "integrated_villages:oasis_village",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#c:desert"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "integrated_villages:tavern_village",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#c:forest"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "terralith:spire",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    }
+  ],
+  "structure_sets": [
+    {
+      "spacing": 24,
+      "separation": 6,
+      "name": "explorify:end_shipwrecks",
+      "salt": 12394461,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false
+    },
+    {
+      "spacing": 48,
+      "separation": 16,
+      "name": "explorify:mausoleums",
+      "salt": 535694654,
+      "frequency": 0.74200004,
+      "override_global_spacing_and_separation_modifier": false
+    },
+    {
+      "spacing": 100,
+      "separation": 75,
+      "name": "integrated_villages:air_villages",
+      "salt": 1982700828,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false
+    },
+    {
+      "spacing": 22,
+      "separation": 16,
+      "name": "integrated_villages:regular_villages",
+      "salt": 1982700828,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false
+    },
+    {
+      "spacing": 36,
+      "separation": 18,
+      "name": "terralith:rare_dungeon",
+      "salt": 1368854222,
+      "frequency": 0.75000006,
+      "override_global_spacing_and_separation_modifier": false
+    }
+  ]
+}
