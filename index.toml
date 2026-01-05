@@ -336,10 +336,6 @@ hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
 
 [[files]]
-file = "mods/create_interactive-1.1.1-beta.4_1.20.1-fabric.jar"
-hash = "d51ad8f7aabe51124d03eb8a0c5df6bbaf3cea8a7f39bbdb1c007bf05f2c1936"
-
-[[files]]
 file = "mods/dataloader.pw.toml"
 hash = "45ab18c1557c3eb23326f682f8ef100148a06cdcb25ff837095ed58f606a06e4"
 metafile = true
@@ -721,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+hash = "246f3d67abead6d493f665fea31b592c1e03ec151cb2c1ef32067c8cea55844e"
 metafile = true
 
 [[files]]
