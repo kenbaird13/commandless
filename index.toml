@@ -978,8 +978,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
 metafile = true
-
-[[files]]
-file = "resourcepacks/idas-config.pw.toml"
-hash = "d327c71a3bf517ec80bde7991c56294b18a35c09ea8e930ec052d7d37d88379b"
-metafile = true
