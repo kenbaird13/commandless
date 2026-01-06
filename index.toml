@@ -93,6 +93,18 @@ file = "config/lootr.json"
 hash = "b5acad4e51a6d3a66021419201289506cd946883acd827e5766d3420611a919e"
 
 [[files]]
+file = "config/regions_unexplored/regions_unexplored-common.toml"
+hash = "8edf97a9204a0a859a364aa8d851c364a23834e3e8ae3b42230209e1b98913d9"
+
+[[files]]
+file = "config/regions_unexplored/regions_unexplored-primary-region.toml"
+hash = "a6b850baea0d114fcf60e9ea6eb340669e092f3344d3ece5a56fd8be7b7fc693"
+
+[[files]]
+file = "config/regions_unexplored/regions_unexplored-secondary-region.toml"
+hash = "836070cd015a3da88fcf83acc53b9f17d6962c81f0c6780c156575cb64e8f975"
+
+[[files]]
 file = "config/structurify.json"
 hash = "76e311e13e9d395add89db1228b452d3c80e6cf35b84f18c5afe98238d4ebde3"
 
@@ -858,11 +870,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
-metafile = true
-
-[[files]]
-file = "mods/terralith-andesite-patch.pw.toml"
-hash = "190aa88d2db3157e402bdfff931a7da87a3d909f07825a0070b2c8dacd46b3d3"
 metafile = true
 
 [[files]]
