@@ -34,7 +34,7 @@ hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
 
 [[files]]
 file = "config/betterend/client.json"
-hash = "b0c5fe0ddb608e1511f9fb145768bbf5308ffd3a58f54c1fb3734635384b9e01"
+hash = "5cc4f88602811bcb28ecdd418d269ef1b5624fbb26ec9df773a15bd000d24aa3"
 
 [[files]]
 file = "config/betterend/enchantments.json"
