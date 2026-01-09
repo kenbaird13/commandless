@@ -243,6 +243,11 @@ hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "4780df2e8d01122c7f5aedee4b8bff93a05c635dc2353fe133cc461a1f51c1f2"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "c603294c194b869fd14d2cdda3f0663f0137b1127b1fd2b627b3945854ef96c4"
 metafile = true
@@ -260,11 +265,6 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
-metafile = true
-
-[[files]]
-file = "mods/chisels-bits-for-fabric.pw.toml"
-hash = "d623fdc9f9af1bbeb7dad546ffaee0071bf0b5acee05f3e84523ed237803946e"
 metafile = true
 
 [[files]]
