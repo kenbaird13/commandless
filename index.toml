@@ -608,6 +608,11 @@ hash = "67a3f8b8acb4a0de6f793f867495d0a64bf4982d545ce898d129d57ad7d48eea"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "e01aa3b603de9bdfbaf3a22b30494ee628a377a2326ff0dabcb7f7787ca63104"
+metafile = true
+
+[[files]]
 file = "mods/ioticblocks.pw.toml"
 hash = "85412f19eccc9b4caa6932122e5e3c7b05aba22686b8cde137a96537d23ff322"
 metafile = true
