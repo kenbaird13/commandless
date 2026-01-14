@@ -763,8 +763,18 @@ hash = "727beac4d8109d8136ce3aa101040a80caa4b353e3262eaa6d6256ca38d818b3"
 metafile = true
 
 [[files]]
+file = "mods/origins-dietary-delights.pw.toml"
+hash = "faaa758dd45c60f751b075cdc3f6ba977f0e964e5cd28a2366f9173393020c90"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "faadbd329bd9b454d469c4ebdbcee1aa718b922c86ba68db8284152cb28ecf75"
+metafile = true
+
+[[files]]
+file = "mods/originstweaks.pw.toml"
+hash = "1b60003c996d51bf1579d487d8b5b52e7ae1169b511af078655a3fd00c35967b"
 metafile = true
 
 [[files]]
