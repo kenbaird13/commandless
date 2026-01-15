@@ -173,6 +173,10 @@ file = "config/yigd.json"
 hash = "b374d4b66e91efabb558b1b89745df46732cfcefceeb2a83b93c8dbbaebde05e"
 
 [[files]]
+file = "datapacks/ferrum_aetheris_origin_tweaks.zip"
+hash = "961be3728fcd6dede9b5f469b960dfef7d1a2b71d43a11e23c72a13c88aa712f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "971916846fa6d86fe9986c6f34370b62de5aa9c219e709011851397af8fd6fb5"
 metafile = true
