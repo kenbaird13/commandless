@@ -782,11 +782,6 @@ hash = "faadbd329bd9b454d469c4ebdbcee1aa718b922c86ba68db8284152cb28ecf75"
 metafile = true
 
 [[files]]
-file = "mods/originstweaks.pw.toml"
-hash = "1b60003c996d51bf1579d487d8b5b52e7ae1169b511af078655a3fd00c35967b"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
