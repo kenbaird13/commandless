@@ -174,7 +174,7 @@ hash = "b374d4b66e91efabb558b1b89745df46732cfcefceeb2a83b93c8dbbaebde05e"
 
 [[files]]
 file = "datapacks/ferrum_aetheris_origin_tweaks.zip"
-hash = "961be3728fcd6dede9b5f469b960dfef7d1a2b71d43a11e23c72a13c88aa712f"
+hash = "8aa641556ae00e3258ce78227bb3c4f1df4d8d1bbf2b0b9c7d9a778437a70c78"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -654,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "f0302803c0685ab563b11e93b7bda534681b8c1a7b67dd0431e18c9df645bf9d"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "65af8adf11070a823ab36edde42d4d9f9069061b51275da17cc0bc7b721d5a81"
 metafile = true
 
 [[files]]
