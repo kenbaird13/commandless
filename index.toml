@@ -352,10 +352,6 @@ hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
 
 [[files]]
-file = "mods/create_interactive-1.2.1_1.20.1-fabric.jar"
-hash = "b3cd7ac168876caf5d29aa0f1a58a913641d1fa77b16b24b2487573137b70610"
-
-[[files]]
 file = "mods/dataloader.pw.toml"
 hash = "45ab18c1557c3eb23326f682f8ef100148a06cdcb25ff837095ed58f606a06e4"
 metafile = true
