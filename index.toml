@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "5b332b628f2bbb11afdc82f4a9d27ca3afde5ad2d21c590af5c7a080c2aa9dfa"
+hash = "f7933fc2034c3eb8601f3eddaa75f03d0a3f68dce19ee553aed57d35163cb21a"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "e13dde750c029b204b1d8a4d2bc6ae3fb9fd079dd1ae489dba4022ee7313f2a5"
+hash = "f88c9ba87efaab7b9b88898095eefaa81d046fe0c613649a1f1484180afbd329"
 metafile = true
 
 [[files]]
@@ -343,13 +343,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "964a56ef500d320801315eb45687e51e9352f03615506469979875d2fed41760"
+hash = "2801e258fc6e9b96900865e1dce5bc9167f01e993b8aad2672b5d671d3524bf8"
 metafile = true
 
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
+
+[[files]]
+file = "mods/create_interactive-1.2.1_1.20.1-fabric.jar"
+hash = "b3cd7ac168876caf5d29aa0f1a58a913641d1fa77b16b24b2487573137b70610"
 
 [[files]]
 file = "mods/dataloader.pw.toml"
@@ -453,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
 metafile = true
 
 [[files]]
@@ -878,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "4d134c76c39c88c45c5ac4be99685d85c62c09f363e0b6e88368308406389aa8"
+hash = "0be153bbdc5a6fab54290e2cc1b5c10b6ae732a34f84017616a67f99ec960745"
 metafile = true
 
 [[files]]
@@ -913,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "784c9a130f2eb92134e456aee15cf2c5f273af0848640fdddf33d4a7ecad8cbe"
+hash = "e94fa1ce1ddc2dcfd41877b9262a6df0c328235c8b8fca628fdfaeabec96d449"
 metafile = true
 
 [[files]]
