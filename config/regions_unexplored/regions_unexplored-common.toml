@@ -86,11 +86,11 @@
 	toggle_redstone_caves = true
 	toggle_scorching_caves = true
 	#nether_biomes
-	toggle_blackstone_basin = true
-	toggle_glistering_meadow = true
-	toggle_infernal_holt = true
-	toggle_mycotoxic_undergrowth = true
-	toggle_redstone_hell = true
+	toggle_blackstone_basin = false
+	toggle_glistering_meadow = false
+	toggle_infernal_holt = false
+	toggle_mycotoxic_undergrowth = false
+	toggle_redstone_hell = false
 
 [worldgen_options]
 	#surface_rules

@@ -19,8 +19,8 @@
         "monster": {
           "betternether": {
             "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
+              "weight [default: 8]": 4,
+              "minGroupSize [default: 3]": 1,
               "maxGroupSize [default: 5]": 5
             }
           }
@@ -47,7 +47,7 @@
           "betternether": {
             "naga": {
               "weight [default: 0]": 0,
-              "minGroupSize [default: 3]": 3,
+              "minGroupSize [default: 3]": 1,
               "maxGroupSize [default: 5]": 5
             }
           }
@@ -73,8 +73,8 @@
         "monster": {
           "betternether": {
             "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
+              "weight [default: 8]": 4,
+              "minGroupSize [default: 3]": 1,
               "maxGroupSize [default: 5]": 5
             }
           }
@@ -100,8 +100,8 @@
         "monster": {
           "betternether": {
             "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
+              "weight [default: 8]": 4,
+              "minGroupSize [default: 3]": 1,
               "maxGroupSize [default: 5]": 5
             }
           }
@@ -127,8 +127,8 @@
         "monster": {
           "betternether": {
             "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
+              "weight [default: 8]": 4,
+              "minGroupSize [default: 3]": 1,
               "maxGroupSize [default: 5]": 5
             }
           }
@@ -156,8 +156,8 @@
         "monster": {
           "betternether": {
             "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
+              "weight [default: 8]": 4,
+              "minGroupSize [default: 3]": 1,
               "maxGroupSize [default: 5]": 5
             }
           }
@@ -183,8 +183,8 @@
         "monster": {
           "betternether": {
             "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
+              "weight [default: 8]": 4,
+              "minGroupSize [default: 3]": 1,
               "maxGroupSize [default: 5]": 5
             }
           }
@@ -210,8 +210,8 @@
         "monster": {
           "betternether": {
             "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
+              "weight [default: 8]": 4,
+              "minGroupSize [default: 3]": 1,
               "maxGroupSize [default: 5]": 5
             }
           }
@@ -237,8 +237,8 @@
         "monster": {
           "betternether": {
             "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
+              "weight [default: 8]": 4,
+              "minGroupSize [default: 3]": 1,
               "maxGroupSize [default: 5]": 5
             }
           }
@@ -264,8 +264,8 @@
         "monster": {
           "betternether": {
             "naga": {
-              "weight [default: 8]": 8,
-              "minGroupSize [default: 3]": 3,
+              "weight [default: 8]": 4,
+              "minGroupSize [default: 3]": 1,
               "maxGroupSize [default: 5]": 5
             }
           }

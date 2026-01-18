@@ -58,7 +58,7 @@ hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
 
 [[files]]
 file = "config/betternether/biomes.json"
-hash = "7b022a3e4a99286d84d4c7a6c587a34730a8045d4fce6dbb07e920df03df271c"
+hash = "8e1d122f21130dac729886adf78e84264285968ace7b1d15b49cbaee4e01da25"
 
 [[files]]
 file = "config/betternether/blocks.json"
@@ -94,7 +94,7 @@ hash = "b5acad4e51a6d3a66021419201289506cd946883acd827e5766d3420611a919e"
 
 [[files]]
 file = "config/regions_unexplored/regions_unexplored-common.toml"
-hash = "8edf97a9204a0a859a364aa8d851c364a23834e3e8ae3b42230209e1b98913d9"
+hash = "3bb1ff520e4e7fbe26e6abdd1db93818ffb900207bfc9ad6cb3ae384b8c7d551"
 
 [[files]]
 file = "config/regions_unexplored/regions_unexplored-primary-region.toml"
