@@ -11,3 +11,8 @@ hash = "892853c4454c4cebf4bf8170a0bb35e2f56415f671e695d96326884b435ce9f17fbad05a
 [update.modrinth]
 mod-id = "E9sX1ncV"
 version = "loGmZ8r0"
+
+[option]
+optional = true
+default = false
+description = "Lets you manually edit the NBT tags of items, blocks, and entities. Useless if you aren't OPed on the server and aren't testing in single-player worlds"

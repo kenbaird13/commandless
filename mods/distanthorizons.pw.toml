@@ -11,3 +11,8 @@ hash = "679cb6f9b55d7eea43c17f0204042140590de712b0cecdc14016e8064a9846695e2f4389
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "lC6CwqPp"
+
+[option]
+optional = true
+default = true
+description = "Renders much further than vanilla MC with minimal performance impact by rendering far-out chunks with less detail."

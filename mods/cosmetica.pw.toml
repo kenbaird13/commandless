@@ -11,3 +11,8 @@ hash = "12624245a34285cbcacb8cb821125a89ef372d274aa35eb05c98fea4df50a88f458aa38e
 [update.modrinth]
 mod-id = "s9hF9QGp"
 version = "aYfs5ZCo"
+
+[option]
+optional = true
+default = true
+description = "Cosmetics mod, lets you see and choose custom cosmetics"

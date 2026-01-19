@@ -11,3 +11,8 @@ hash = "8da795da0576962ad4a5c2df0031a64f3d25beeda1c8bbac928318c71afa9a4485fee060
 [update.modrinth]
 mod-id = "zDF68701"
 version = "gymoj1gA"
+
+[option]
+optional = true
+default = true
+description = "Addon to figura to let it interact with Simple Voice Chat, remove if figura is removed"
