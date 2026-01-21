@@ -5,6 +5,10 @@ file = "README.md"
 hash = "3a3338b9801cb42b22637d5656f2feb527bd886c892646eaf6ab4f2e9d6ded27"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "ef97226d59a6eb36f00ec5f1d3e44d716e1fea4adb0f3710454337e30f168271"
+
+[[files]]
 file = "config/bclib/biomes.json"
 hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
 
