@@ -173,6 +173,10 @@ file = "config/yigd.json"
 hash = "b374d4b66e91efabb558b1b89745df46732cfcefceeb2a83b93c8dbbaebde05e"
 
 [[files]]
+file = "datapacks/EvolvingDragonOriginV1.zip"
+hash = "2bafcc0cb909b8b1b7794fb4a43c13d888de21b9a572e7121d199b5f2b8e8f06"
+
+[[files]]
 file = "datapacks/ferrum_aetheris_origin_tweaks.zip"
 hash = "8aa641556ae00e3258ce78227bb3c4f1df4d8d1bbf2b0b9c7d9a778437a70c78"
 
