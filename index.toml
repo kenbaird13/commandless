@@ -86,7 +86,7 @@ hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
 
 [[files]]
 file = "config/bosses_of_mass_destruction.json5"
-hash = "bcc142c4bb2724b132a14d12cc0dd49f761c518b54bd01f9214804ef44d7d5f4"
+hash = "b73794cbab15d35aa95593de6cdbcb7644986d7e0337dc1da900e97e1c471450"
 
 [[files]]
 file = "config/chunky/config.json"
