@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b534fbebf760ee1f9382d18e22450ef006d67b50bd9043cedaa9f5c31a501041"
+hash = "4a96077cbebe6f4a713bc5f2863dfb83faa4cd57d53874ecc47eaae416f21a51"
 metafile = true
 
 [[files]]
@@ -723,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d8a2ea4edf1c55f6fe01cbcc220543f056b91c0d79512e96df22e4259b7c5777"
+hash = "552a673f66c195b5e1513ebc50895303b7441b9276a368bf3c83553a45779be1"
 metafile = true
 
 [[files]]
@@ -858,12 +858,12 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "0be153bbdc5a6fab54290e2cc1b5c10b6ae732a34f84017616a67f99ec960745"
+hash = "ed2b5f13f11ccf2c33fb9f0f065a959469225af662f37e9fdf68f78e2d8dfa59"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3135bb6ec401e951d248de79dbdf40608e362e64b89fe9e7d2e74399f3b49375"
+hash = "68586ae904f1cb0d0c914f8be6258c4d2a20e6b28cd0a07fc4940adba7dbc22f"
 metafile = true
 
 [[files]]
@@ -878,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith-restoned.pw.toml"
-hash = "6fce1ec54d9b11eeb07de3951ac823ba52b9021fa420650e8e16c9bfc3302135"
+hash = "f3ebeb977aa6736be4fa768f8397cedcc3b4b2b0c739757a852659e0e8ddc194"
 metafile = true
 
 [[files]]
@@ -908,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "2f38a4154bf643f20e5ecfcfde55eb84e997a085057815293596cf52fbde77af"
+hash = "941a5b42bd121e307860484cfe923ff42ec8786e5bf61e378bc5b6f1bfa9c767"
 metafile = true
 
 [[files]]
