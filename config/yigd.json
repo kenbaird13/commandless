@@ -32,8 +32,8 @@
   "graveConfig": {
     "enabled": true,
     "storeItems": true,
-    "storeXp": true,
-    "informGraveLocation": true,
+    "storeXp": false,
+    "informGraveLocation": false,
     "requireItem": false,
     "requiredItem": "yigd:grave",
     "requiredItemCount": 1,
@@ -45,7 +45,7 @@
       "onStand": false
     },
     "mergeStacksOnRetrieve": true,
-    "dropOnRetrieve": "IN_INVENTORY",
+    "dropOnRetrieve": "ON_GROUND",
     "dropGraveBlock": false,
     "generateEmptyGraves": false,
     "overrideSpawnProtection": true,
@@ -61,7 +61,7 @@
     },
     "graveTimeout": {
       "enabled": false,
-      "afterTime": 5,
+      "afterTime": 1,
       "timeUnit": "HOURS",
       "dropContentsOnTimeout": true
     },
@@ -93,7 +93,7 @@
       "spawnEntity": "minecraft:zombie",
       "spawnNbt": "{ArmorItems:[{},{},{},{id:\"minecraft:player_head\",tag:{SkullOwner:\"${owner.name}\"},Count:1b}]}"
     },
-    "generateOnLastGroundPos": false,
+    "generateOnLastGroundPos": true,
     "tryGenerateOnGround": false,
     "generationMaxDistance": {
       "x": 5,
