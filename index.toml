@@ -162,6 +162,16 @@ hash = "573bc2adfc72fb395c27c371568f0af20d0e83949637b6cf1b8a555a63814956"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
+metafile = true
+
+[[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "95d278261dad118bd5ce0474d4f8d05ceab0c81e16159cb94182b550187cd473"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "f7933fc2034c3eb8601f3eddaa75f03d0a3f68dce19ee553aed57d35163cb21a"
 metafile = true
@@ -184,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "036bd1f08a582f2a38809e3ab65720d5e04d84fcc1c7b8558d6888c319e18527"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance-fabric.pw.toml"
+hash = "ada6b2bc0ff26a30c97b717079ed8c19c83df8ee0021ec7bb2b217fb5bcfb7fc"
 metafile = true
 
 [[files]]
@@ -262,6 +277,11 @@ hash = "720abb80fb6b6585322ee0d10fafd3b4ee6fe2997d2053b4f6f685cd7ed02ea5"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "dfb3791da12798522449390e0bd4199ee47ee682c10e37dffa534713decd9913"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
@@ -317,6 +337,11 @@ hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
+metafile = true
+
+[[files]]
 file = "mods/dataloader.pw.toml"
 hash = "45ab18c1557c3eb23326f682f8ef100148a06cdcb25ff837095ed58f606a06e4"
 metafile = true
@@ -324,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
@@ -607,6 +637,11 @@ hash = "f644c401c3ef437f661564171abc8be8f13ad71cb67461734ab402d2ebe7cc47"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
 metafile = true
@@ -714,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "866baeb7e9917b92825ddbcf4d113648a6662b5214e078b29c327ff97d0e2774"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
 
 [[files]]
@@ -854,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "a91400da1fd45c7c895c6b3289517cc85b53286cb00ea59b00e7489c7a4fb225"
 metafile = true
 
 [[files]]
