@@ -33,7 +33,7 @@
     "enabled": true,
     "storeItems": true,
     "storeXp": false,
-    "informGraveLocation": false,
+    "informGraveLocation": true,
     "requireItem": false,
     "requiredItem": "yigd:grave",
     "requiredItemCount": 1,
@@ -45,7 +45,7 @@
       "onStand": false
     },
     "mergeStacksOnRetrieve": true,
-    "dropOnRetrieve": "ON_GROUND",
+    "dropOnRetrieve": "INVENTORY",
     "dropGraveBlock": false,
     "generateEmptyGraves": false,
     "overrideSpawnProtection": true,
@@ -56,8 +56,8 @@
       "afterTime": 1,
       "timeUnit": "MINUTES",
       "robPriority": "INVENTORY",
-      "notifyWhenRobbed": false,
-      "tellWhoRobbed": false
+      "notifyWhenRobbed": true,
+      "tellWhoRobbed": true
     },
     "graveTimeout": {
       "enabled": false,
