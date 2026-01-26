@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
 metafile = true
 
 [[files]]
@@ -272,6 +272,11 @@ hash = "fd5b977c47d226c54cc7f90bef30138837c64da9c7b67985b5fc2dcaaeec0ce1"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
+metafile = true
+
+[[files]]
 file = "mods/common-network.pw.toml"
 hash = "720abb80fb6b6585322ee0d10fafd3b4ee6fe2997d2053b4f6f685cd7ed02ea5"
 metafile = true
@@ -313,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "f88c9ba87efaab7b9b88898095eefaa81d046fe0c613649a1f1484180afbd329"
+hash = "0203570673af994528a5c2660ceab7e61f2724fed9a19536410d7deb3590700a"
 metafile = true
 
 [[files]]
@@ -903,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "ed2b5f13f11ccf2c33fb9f0f065a959469225af662f37e9fdf68f78e2d8dfa59"
+hash = "82d1262960d4364ef9c3337285a1ee3b27f919f4e595d18dfbc97937a144e4bd"
 metafile = true
 
 [[files]]
@@ -938,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "e94fa1ce1ddc2dcfd41877b9262a6df0c328235c8b8fca628fdfaeabec96d449"
+hash = "7ff2b65fbb17194a0b8a5dbaf35a88907a84725859bc0c077ef206c8a868201e"
 metafile = true
 
 [[files]]
