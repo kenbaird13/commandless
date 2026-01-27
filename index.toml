@@ -797,6 +797,11 @@ hash = "3c4c11e21b430e85e02437a86d78e2c828ee16bc5bac58e37d211ff4e9f80e92"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "ad302d4bc503de96528b917401fa6f4652cc03bd2e506912d0e5157ecabe9cbd"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
