@@ -8,7 +8,7 @@
   "conversion": {
     "max_entry_age": 12000,
     "disable": false,
-    "elytra": false,
+    "elytra":   ,
     "world_border": false
   },
   "breaking": {

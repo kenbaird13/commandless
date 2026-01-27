@@ -94,7 +94,7 @@ hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
 file = "config/lootr.json"
-hash = "b5acad4e51a6d3a66021419201289506cd946883acd827e5766d3420611a919e"
+hash = "af151bf686cd101e2c46b69172bb746ecd6ec78263c1b7eb2850be4c88db7bd3"
 
 [[files]]
 file = "config/regions_unexplored/regions_unexplored-common.toml"
@@ -249,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "59d74acf0465432b8c3b68116064ddcef7ceb54e7bca10871215f24d8ddc4c9c"
 metafile = true
 
 [[files]]
@@ -429,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/ephemeral-wither-skulls.pw.toml"
 hash = "5233b7493e1efa92a19b59cde5f4ea54f511c6e24fda262c44cde9182f2dca10"
+metafile = true
+
+[[files]]
+file = "mods/etched-fabric.pw.toml"
+hash = "7d2ca1b61fd852dd2077dca498fb500b7776bf59b249c0e76c8cf104d5197562"
 metafile = true
 
 [[files]]
@@ -909,6 +919,16 @@ metafile = true
 [[files]]
 file = "mods/structurify.pw.toml"
 hash = "82d1262960d4364ef9c3337285a1ee3b27f919f4e595d18dfbc97937a144e4bd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "8493921323387a14ce5c0ecfd052ca0bdd177f4c160ca77f672cc1170b64f97e"
 metafile = true
 
 [[files]]
