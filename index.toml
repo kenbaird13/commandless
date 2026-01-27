@@ -109,6 +109,22 @@ file = "config/regions_unexplored/regions_unexplored-secondary-region.toml"
 hash = "836070cd015a3da88fcf83acc53b9f17d6962c81f0c6780c156575cb64e8f975"
 
 [[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "cb08fad009eefaaf888bb4324c351ac426a49fb0db7cb75c4fddbcdcf8d8f414"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+hash = "aeaf7c9a46d4d308befef2e1f6d998b3c422da21cf6f409a442543aa2a021a12"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "47e0682e3e8eae70ac228f95c3b6668e2efff16f7837bffee210a0a7d849b8f2"
+
+[[files]]
 file = "config/structurify.json"
 hash = "76e311e13e9d395add89db1228b452d3c80e6cf35b84f18c5afe98238d4ebde3"
 
