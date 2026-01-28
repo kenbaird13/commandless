@@ -258,11 +258,6 @@ hash = "c325387d3cbdf2658de2a51ea6235b610505c6de8dc8be71799d050c713c88a2"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
@@ -333,6 +328,11 @@ hash = "704f8316694e021de35b8f18ec06cbde7601e20a1e46817fb5ef6fcfa3f980d9"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric-legacy.pw.toml"
+hash = "46b9b7da92baae101a078a791500eb8d7b54255d882611be17b03085abe3d7b3"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
@@ -355,11 +355,6 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2801e258fc6e9b96900865e1dce5bc9167f01e993b8aad2672b5d671d3524bf8"
-metafile = true
-
-[[files]]
-file = "mods/create-threaded-trains.pw.toml"
-hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
 
 [[files]]
@@ -450,11 +445,6 @@ metafile = true
 [[files]]
 file = "mods/ephemeral-wither-skulls.pw.toml"
 hash = "5233b7493e1efa92a19b59cde5f4ea54f511c6e24fda262c44cde9182f2dca10"
-metafile = true
-
-[[files]]
-file = "mods/etched-fabric.pw.toml"
-hash = "7d2ca1b61fd852dd2077dca498fb500b7776bf59b249c0e76c8cf104d5197562"
 metafile = true
 
 [[files]]
@@ -660,11 +650,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "f644c401c3ef437f661564171abc8be8f13ad71cb67461734ab402d2ebe7cc47"
 metafile = true
 
 [[files]]
