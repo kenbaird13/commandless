@@ -328,11 +328,6 @@ hash = "704f8316694e021de35b8f18ec06cbde7601e20a1e46817fb5ef6fcfa3f980d9"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry-fabric-legacy.pw.toml"
-hash = "46b9b7da92baae101a078a791500eb8d7b54255d882611be17b03085abe3d7b3"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
