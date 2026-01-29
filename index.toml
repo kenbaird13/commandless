@@ -122,7 +122,7 @@ hash = "aeaf7c9a46d4d308befef2e1f6d998b3c422da21cf6f409a442543aa2a021a12"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "47e0682e3e8eae70ac228f95c3b6668e2efff16f7837bffee210a0a7d849b8f2"
+hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
 
 [[files]]
 file = "config/structurify.json"
