@@ -1,13 +1,13 @@
 name = "Traveler's Backpack"
-filename = "travelersbackpack-fabric-1.20.1-9.1.48.jar"
+filename = "travelersbackpack-fabric-1.20.1-9.1.49.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rlloIFEV/versions/ndjO71r5/travelersbackpack-fabric-1.20.1-9.1.48.jar"
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/8JL58SeM/travelersbackpack-fabric-1.20.1-9.1.49.jar"
 hash-format = "sha512"
-hash = "a7dc02874d37202d6f7ee70b3c10897bbd0ecd4986cdbf3f024ca89a8f9cce1a20c1d0fed8c242793e082b9a375fd27a354a350f69fe4be892844502735393e7"
+hash = "8370449bdab9bc1391608a9287e878bc067ed3d8f881aa7d5afbabaaf6271241c89b352f5e6276c696b372828d018326ee741ead5415dc2a06d6d7593629596d"
 
 [update]
 [update.modrinth]
 mod-id = "rlloIFEV"
-version = "ndjO71r5"
+version = "8JL58SeM"
