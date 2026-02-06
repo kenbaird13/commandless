@@ -318,11 +318,6 @@ hash = "195105e5e989cd109d5f644b58eca2e06f9d487d80ea365fa42033675aac7ac7"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "4fdd4bbf8dc18320ba32347100633ebeaeea6356196fc0186654b22ac41d8364"
-metafile = true
-
-[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "704f8316694e021de35b8f18ec06cbde7601e20a1e46817fb5ef6fcfa3f980d9"
 metafile = true
@@ -469,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -524,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "4a96077cbebe6f4a713bc5f2863dfb83faa4cd57d53874ecc47eaae416f21a51"
+hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
 metafile = true
 
 [[files]]
@@ -964,7 +959,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "8cc94c6ab944837ffb5fa4e27dbceffa28c7d8bf2b905e8e1507f51562dd9937"
+hash = "ce08171df6d0816ffc228cd408ba15cfae26abc0e4dcc975bac6eeaffdfe16dd"
 metafile = true
 
 [[files]]
@@ -979,7 +974,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "941a5b42bd121e307860484cfe923ff42ec8786e5bf61e378bc5b6f1bfa9c767"
+hash = "8614c98288cd90cf75c8aeea67e2b7da0a72c1a15462d329b5e39e04e46e664a"
 metafile = true
 
 [[files]]
