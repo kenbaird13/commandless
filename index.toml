@@ -983,6 +983,11 @@ hash = "93fb03eab0c3c4d2482331c9bc64c5d280ddf53f08bcd8bd252b540845c238da"
 metafile = true
 
 [[files]]
+file = "mods/vs-ship-retrieval-service.pw.toml"
+hash = "e049377a0dad18d6dfed4854d15750e50f07ab0e4d87f397b015a549aed7e314"
+metafile = true
+
+[[files]]
 file = "mods/weaponmaster.pw.toml"
 hash = "1739505075c08dcda3714a0e48c069478743e831afa79a371da75984d52b6dfb"
 metafile = true
