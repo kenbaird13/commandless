@@ -6,7 +6,7 @@ hash = "3a3338b9801cb42b22637d5656f2feb527bd886c892646eaf6ab4f2e9d6ded27"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "ef97226d59a6eb36f00ec5f1d3e44d716e1fea4adb0f3710454337e30f168271"
+hash = "90f6214e2403a7fc56a8ced087d9baea09a796074b47137f381dee2ea8150176"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -755,6 +755,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "866baeb7e9917b92825ddbcf4d113648a6662b5214e078b29c327ff97d0e2774"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "03b7b5e918aaf6324e4d34c1868c3f44a218b5306bd321efa89ee50ec78c2299"
 metafile = true
 
 [[files]]

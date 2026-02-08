@@ -318,7 +318,7 @@ _version = 3
 				# Holes are most likely to appear when flying through unloaded terrain. 
 				# 
 				# Increasing the vanilla render distance increases the effectiveness of this setting.
-				overdrawPrevention = "0.0"
+				overdrawPrevention = "0.1"
 				#
 				# If enabled caves won't be rendered. 
 				# 
