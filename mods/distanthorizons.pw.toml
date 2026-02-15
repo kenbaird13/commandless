@@ -15,4 +15,4 @@ version = "lC6CwqPp"
 [option]
 optional = true
 default = true
-description = "Renders much further than vanilla MC with minimal performance impact by rendering far-out chunks with less detail."
+description = "Renders much further than vanilla MC with lower performance impact by rendering far-out chunks with less detail."

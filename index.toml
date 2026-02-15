@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c19212873929b95a139f38fb021638a0cc0e846f77791dd8223553c01389c59e"
+hash = "4b9821f044d1a399ed45e97b713e2839a79323deeceb8c14e78d8b373b386ebf"
 metafile = true
 
 [[files]]
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "ea9af51413113483ba002f9827a66653b184363c68d6280009677df1fe171afa"
+hash = "b573cf54b09dabe06138af1b3a8d925b51479623bcddf42d9ba4c99e4fa34f67"
 metafile = true
 
 [[files]]
@@ -889,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6225a36557ab2dfd1c4d3fb3c0868ed61c465d3246695b10ff10d339f65e3302"
+hash = "953bf8b7f1516c226bf80636b57941aa02557bc0a684d9c115440f52e46a8121"
 metafile = true
 
 [[files]]
@@ -1015,6 +1015,16 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "48c5a8213925efd652a9e13f40116d53e0516e9147b27d6d0e0ae8cf68f83f6d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "fdd609a634bf4a5123cf6cf62df7689b3e19738a76414b38b4ab638540a1f32f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5e325dcccdad9f66cca477c78dde0f343abe0b64b284cd36d4fcf06fec9a7bdb"
 metafile = true
 
 [[files]]
