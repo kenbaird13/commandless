@@ -577,6 +577,11 @@ hash = "e7618fe94cbf0b7ea032e45cb448ab8151773ef71adb6dda8becd4d2fcc4dab5"
 metafile = true
 
 [[files]]
+file = "mods/hex-spell-wheel.pw.toml"
+hash = "9492ecf126a0668423ba846fc471c8d630bc78f45e9a60b8027f354cbee93cae"
+metafile = true
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
