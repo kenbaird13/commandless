@@ -1,0 +1,13 @@
+name = "Create: Transmission!"
+filename = "createtransmission-1.0.4+fabric-create6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QFCkBuIh/versions/Dfmwifvr/createtransmission-1.0.4%2Bfabric-create6-1.20.1.jar"
+hash-format = "sha512"
+hash = "208bc1581804491369c98fdc4a8cda0e04bb993cec08bf9b0cf59b4955cf8d629bdbdf1d7ba69580be7e1388a86568496b3f302adb0be3b05f6ab3da88942d44"
+
+[update]
+[update.modrinth]
+mod-id = "QFCkBuIh"
+version = "Dfmwifvr"

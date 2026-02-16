@@ -1,0 +1,13 @@
+name = "Create: Cardboarded Conveynience"
+filename = "create-cardboarded-conveynience-1.20.1-fabric-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dWU6xUnj/versions/LDytEDrX/create-cardboarded-conveynience-1.20.1-fabric-0.1.1.jar"
+hash-format = "sha512"
+hash = "f7ab37641700190a0972515e40abb10d8675fedb3e39bea17e2b61b86b8822309feb5210a51209d6941e2a919f09817c0de6896c44869ea7b60fef96c8c317fb"
+
+[update]
+[update.modrinth]
+mod-id = "dWU6xUnj"
+version = "LDytEDrX"

@@ -149,6 +149,10 @@ file = "datapacks/EvolvingDragonOriginV1.zip"
 hash = "2bafcc0cb909b8b1b7794fb4a43c13d888de21b9a572e7121d199b5f2b8e8f06"
 
 [[files]]
+file = "datapacks/InformationTrinkets.zip"
+hash = "f376d5ccfbbc1786d85941081f31c54d4665a5aa7a1d9d903c72b7bd58dd8f4f"
+
+[[files]]
 file = "datapacks/ferrum_aetheris_origin_tweaks.zip"
 hash = "8aa641556ae00e3258ce78227bb3c4f1df4d8d1bbf2b0b9c7d9a778437a70c78"
 
@@ -323,6 +327,16 @@ hash = "704f8316694e021de35b8f18ec06cbde7601e20a1e46817fb5ef6fcfa3f980d9"
 metafile = true
 
 [[files]]
+file = "mods/create-cardboarded-conveynience.pw.toml"
+hash = "967d8071df815e1ffa1f3acdada64c040d6cb24f99ac61dc4be74d2886c7cca3"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric-(create-6).pw.toml"
+hash = "53256a86d35e72d17ea9990d25a0db8b9a2cd0493811aad8a63eb3e74fe5a3aa"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
@@ -345,6 +359,16 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2801e258fc6e9b96900865e1dce5bc9167f01e993b8aad2672b5d671d3524bf8"
+metafile = true
+
+[[files]]
+file = "mods/create-transmission!.pw.toml"
+hash = "406edbbb0db7d5d1dd3666a7dad846166bf4d234fcf05cefca86df91ff51d339"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "7fc79be55d9f777b7b134bd53dc93a254170b56c2110cbf40bee3da3dbf7c096"
 metafile = true
 
 [[files]]
@@ -440,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/eureka.pw.toml"
 hash = "1902c9a0ff2845ece3ce01249ec74a736af2fc5266ff53eba985212b95d6a908"
+metafile = true
+
+[[files]]
+file = "mods/exoflame-blaze-burners.pw.toml"
+hash = "1049177aed55daed7370bf726efa558f7537e7abb3a8915c9e96634b6984d07a"
 metafile = true
 
 [[files]]
@@ -548,18 +577,28 @@ hash = "e7618fe94cbf0b7ea032e45cb448ab8151773ef71adb6dda8becd4d2fcc4dab5"
 metafile = true
 
 [[files]]
-file = "mods/hex-spell-wheel.pw.toml"
-hash = "9492ecf126a0668423ba846fc471c8d630bc78f45e9a60b8027f354cbee93cae"
-metafile = true
-
-[[files]]
 file = "mods/hexal.pw.toml"
 hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
 
 [[files]]
+file = "mods/hexchanting.pw.toml"
+hash = "d62dfc7169dd744c050748104bf0c9e7cc3fb67267f4c12d3c19c2fb48acbac3"
+metafile = true
+
+[[files]]
 file = "mods/hexdebug.pw.toml"
 hash = "b48832001c692143d8140577323ec8033bfe868c44d79daa27cdd8a64913cf40"
+metafile = true
+
+[[files]]
+file = "mods/hexical.pw.toml"
+hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
+metafile = true
+
+[[files]]
+file = "mods/hexsbm.pw.toml"
+hash = "76e60bfdbf368ebcc0e58f93dfb4f200512bdf3a32321e51561661f4f886d412"
 metafile = true
 
 [[files]]
@@ -679,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "ace2b470981f950cd04f22d9dbd8e57fc8a3e3059f282f36b720ed02a640da0e"
+hash = "fde4be77cf20a4d2b2b82133c74b739b2a26b61de4e2ea15de978110873727d1"
 metafile = true
 
 [[files]]
@@ -735,6 +774,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "cca59c22f3d72c86e6f33ab6497d7ce8a927aeff2517d7e4415602c623013bc3"
+metafile = true
+
+[[files]]
+file = "mods/mana-peeper.pw.toml"
+hash = "948182004263b3620a6fe0a636c6009b7af8b2ff357623c8abca9d570ca8c3f8"
 metafile = true
 
 [[files]]
@@ -1080,6 +1124,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "d16f420cfba9a58bacfe7b3abd13e2e9ddda61051f99251c0d399da65646685d"
+
+[[files]]
+file = "resourcepacks/info slot.zip"
+hash = "1679289239404c9804b94e6339b1fedda874b3d5d2e21e3c9b1d39de94be8b50"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
